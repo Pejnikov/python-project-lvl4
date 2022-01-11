@@ -1,0 +1,14 @@
+*.egg-info
+__pycache__
+dist/
+*.pyc
+.venv/
+.vscode/
+.idea/
+.coverage
+coverage.xml
+.pytest_cache/
+*.DS_Store
+.env
+gunicorn.conf.py
+db.sqlite3
